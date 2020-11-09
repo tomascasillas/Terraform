@@ -1,0 +1,1 @@
+Dploy de terraform de 3 maquinas (2 linux y una windows)en 2 regiones diferentes, 3 subredes, 2 vnets, vnet peering, nsg con puertos ssh y web, y con instalación de de apache e IIS modificación del index.html

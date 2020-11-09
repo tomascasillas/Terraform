@@ -1,0 +1,1 @@
+https://medium.com/@shouldroforion/azure-terraform-part-1-building-a-basic-bastion-worker-host-virtual-network-c8bcc419cfc9
